@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+
+
+ /* fm-making-form样式 */
+.fm2-container footer{
+  display: none !important;
+}
+
+/* elememt样式 */
+.el-date-editor.el-input {
+  width: fill-available;
+}
